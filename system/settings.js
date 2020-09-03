@@ -1,1 +1,1 @@
-const CHATID = "388323419";
+const CHATID = "677709005";
