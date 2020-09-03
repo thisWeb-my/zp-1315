@@ -1,0 +1,5 @@
+.form-choice-checkbox:checked+.form-label .form-choice-indicator:after,.form-choice-checkbox:checked+.form-label .form-choice-indicator:before{
+content:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" id="source" viewBox="0 0 1440 1" > <path transform="scale(1,-1) translate(0,-650)" fill="white" stroke-width="1" d="M155 633l-112 -120l427 -397l709 665l-112 120l-598 -561z" /></svg>') 
+}
+.form-choice-checkbox:checked+.form-label .form-choice-indicator:after{font-size:19px;line-height:1.47384;font-weight:400;letter-spacing:.015em;color:#fff;top:-7.5px;left:-9px;padding:0;width:25px;vertical-align:top}
+*:focus {outline:0;}
